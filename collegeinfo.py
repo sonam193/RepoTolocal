@@ -1,5 +1,3 @@
 college = input("Enter ur college name")
 city = input("enter ur college city")
-contact = input("enter ur college contact number")
 print("college basic details",college+ "" +city)
-print("college contact is",contact)
